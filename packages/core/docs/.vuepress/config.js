@@ -160,7 +160,8 @@ module.exports = {
 								]
 							]
 						},
-						['/guide/error-handling', 'Error Handling']
+						['/guide/error-handling', 'Error Handling'],
+                        ['/guide/authentication', 'Authentication']
 					]
 				},
 				{
